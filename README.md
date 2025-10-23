@@ -5,7 +5,6 @@
 I'm a **Software Engineering student** at Staffordshire University, passionate about building innovative full-stack applications and exploring AI/ML technologies. Currently in my second year, I love turning ideas into functional, scalable solutions.
 
 - 🔭 I'm currently working on **PrepWise** - an AI-powered interview prep platform for Software Engineering students
-- 🌱 I'm currently learning **AWS AI & ML** and deepening my knowledge in cloud architecture
 - 👯 I'm looking to collaborate on **open-source projects** involving full-stack development or AI integration
 - 💼 I'm actively seeking **Software Engineering Internship** opportunities
 
