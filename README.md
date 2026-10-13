@@ -21,16 +21,10 @@ public class Sharini : SoftwareEngineer
     public string Degree   => "BEng (Hons) Software Engineering, First Class";
     public string[] Stack  => new[] { "C#", ".NET Core", "Java", "Python", "AWS", "Terraform" };
     public string Research => "Federated fraud detection with adaptive differential privacy";
+    public string Learning => "Application security & secure code review";
     public string OpenTo   => "Associate / Junior Software Engineer roles";
 }
 ```
-
-- 🎓 Final-year **BEng (Hons) Software Engineering**, Staffordshire University (APIIT Colombo), **First Class**
-- 💼 **Software Engineering Intern @ hSenid Business Solutions**, building enterprise software in C# / .NET Core
-- ☁️ Designing and building on **AWS**, with infrastructure as code in **Terraform**
-- 🔬 Final-year research: **federated fraud detection with adaptive differential privacy**
-- 🔐 Growing toward **application security** and secure software engineering
-- 🤝 Open to **Associate / Junior Software Engineer** roles
 
 
 ---
