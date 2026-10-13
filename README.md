@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:66BB6A&height=190&section=header&text=Sharini%20Nirmalan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Secure%20Systems&descAlignY=58&descSize=18" width="100%" alt="Sharini Nirmalan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=190&section=header&text=Sharini%20Nirmalan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Secure%20Systems&descAlignY=58&descSize=18" width="100%" alt="Sharini Nirmalan" />
 
-<a href="https://github.com/ShariniN">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=43A047&center=true&vCenter=true&width=620&lines=Final-year+Software+Engineering+undergraduate;SE+Intern+%40+hSenid+%E2%80%94+C%23+%2F+.NET+Core;Building+on+AWS+with+Terraform;Researching+privacy-preserving+federated+ML" alt="Typing intro" />
-</a>
+<p><b>Final-year Software Engineering undergraduate · SE Intern @ hSenid · C# / .NET · AWS · Secure systems</b></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Open_to-Associate_/_Junior_SE_roles-1565C0?style=flat-square" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Based_in-Colombo,_Sri_Lanka-0D47A1?style=flat-square" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=ShariniN&style=flat-square&color=1E88E5&label=Profile+views" alt="Profile views" />
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/sharini-nirmalan-5081a0322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sharinin.com/"><img src="https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sharinin.com/"><img src="https://img.shields.io/badge/Portfolio-1565C0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:nirmalan.sharini@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -99,12 +103,12 @@ AI-powered interview prep platform: CV analysis, skill assessment and mock inter
 ### 📊 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShariniN&show_icons=true&hide_border=true&bg_color=0D1117&title_color=66BB6A&icon_color=43A047&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariniN&layout=compact&hide_border=true&bg_color=0D1117&title_color=66BB6A&text_color=C9D1D9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShariniN&show_icons=true&hide_border=true&bg_color=0D1117&title_color=42A5F5&icon_color=1E88E5&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariniN&layout=compact&hide_border=true&bg_color=0D1117&title_color=42A5F5&text_color=C9D1D9" alt="Top languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=ShariniN&hide_border=true&background=0D1117&ring=43A047&fire=66BB6A&currStreakLabel=66BB6A&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=ShariniN&hide_border=true&background=0D1117&ring=1E88E5&fire=42A5F5&currStreakLabel=42A5F5&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,100:1B5E20&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:0D47A1&height=110&section=footer" width="100%" alt="" />
 </div>
