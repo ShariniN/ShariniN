@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=190&section=header&text=Sharini%20Nirmalan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Secure%20Systems&descAlignY=58&descSize=18" width="100%" alt="Sharini Nirmalan" />
-
-<p><b>Final-year Software Engineering undergraduate · SE Intern @ hSenid · C# / .NET · AWS · Secure systems</b></p>
-
-<p>
-  <img src="https://img.shields.io/badge/Open_to-Associate_/_Junior_SE_roles-1565C0?style=flat-square" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Based_in-Colombo,_Sri_Lanka-0D47A1?style=flat-square" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=ShariniN&style=flat-square&color=1E88E5&label=Profile+views" alt="Profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=190&section=header&animation=fadeIn&text=Sharini%20Nirmalan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Secure%20Systems&descAlignY=58&descSize=18" width="100%" alt="Sharini Nirmalan" />
 
 <p>
   <a href="https://www.linkedin.com/in/sharini-nirmalan-5081a0322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -22,7 +14,16 @@
 
 ### 👩‍💻 About me
 
-<img align="right" width="300" src="https://skillicons.dev/icons?i=cs,dotnet,java,py,aws,terraform,docker,react&perline=4" alt="Core stack" />
+```csharp
+public class Sharini : SoftwareEngineer
+{
+    public string Role     => "Software Engineering Intern @ hSenid";
+    public string Degree   => "BEng (Hons) Software Engineering, First Class";
+    public string[] Stack  => new[] { "C#", ".NET Core", "Java", "Python", "AWS", "Terraform" };
+    public string Research => "Federated fraud detection with adaptive differential privacy";
+    public string OpenTo   => "Associate / Junior Software Engineer roles";
+}
+```
 
 - 🎓 Final-year **BEng (Hons) Software Engineering**, Staffordshire University (APIIT Colombo), **First Class**
 - 💼 **Software Engineering Intern @ hSenid Business Solutions**, building enterprise software in C# / .NET Core
@@ -31,7 +32,6 @@
 - 🔐 Growing toward **application security** and secure software engineering
 - 🤝 Open to **Associate / Junior Software Engineer** roles
 
-<br clear="right" />
 
 ---
 
