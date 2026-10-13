@@ -1,69 +1,110 @@
-# Hi, I'm Sharini Nirmalan 👋
+<div align="center">
 
-Final-year **Software Engineering** undergraduate at Staffordshire University (APIIT Colombo), First Class, and **Software Engineering Intern at hSenid Business Solutions**, working on enterprise software in C# and .NET.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:66BB6A&height=190&section=header&text=Sharini%20Nirmalan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Secure%20Systems&descAlignY=58&descSize=18" width="100%" alt="Sharini Nirmalan" />
 
-I build full-stack and backend systems, design on AWS, and care about writing secure, well-tested code. My final-year research is on **privacy-preserving federated machine learning for fraud detection**.
+<a href="https://github.com/ShariniN">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=43A047&center=true&vCenter=true&width=620&lines=Final-year+Software+Engineering+undergraduate;SE+Intern+%40+hSenid+%E2%80%94+C%23+%2F+.NET+Core;Building+on+AWS+with+Terraform;Researching+privacy-preserving+federated+ML" alt="Typing intro" />
+</a>
 
-- 💼 Open to **Associate / Junior Software Engineer** roles
-- 🔐 Growing toward application security and secure software engineering
-- 📫 [LinkedIn](https://www.linkedin.com/in/sharini-nirmalan-5081a0322/) · [Portfolio](https://sharinin.com/)
+<p>
+  <a href="https://www.linkedin.com/in/sharini-nirmalan-5081a0322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sharinin.com/"><img src="https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:nirmalan.sharini@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
----
-
-## 📌 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Federated Fraud Detection with Adaptive DP**](https://github.com/ShariniN/federated-fraud-detection-adaptive-dp) | Final-year project: banks train a shared fraud model without sharing data. Uncertainty-adaptive differential privacy, uncertainty-weighted aggregation, and membership-inference attack evaluation on 590K transactions. | Python, PyTorch, Opacus, Flower |
-| [**AWS Healthcare Cloud Migration**](https://github.com/ShariniN/aws-healthcare-cloud-migration) | Multi-AZ AWS architecture and proof of concept for migrating a ~220-VM healthcare platform: 99.99 % availability target, warm-standby DR, six-layer security. | AWS, Terraform, ECS Fargate, Aurora, DynamoDB |
-| [**LUDO-T: Multiplayer Client-Server Game**](https://github.com/ShariniN/ludo-multiplayer-client-server-java) | Three-tier multiplayer game with a concurrent socket + Tomcat server and an H2 database tier. 280 passing tests, stress-tested with zero dropped requests. | Java 21, Tomcat, H2/JDBC, JUnit, JMeter |
-| [**PrepWise**](https://github.com/ShariniN/PrepWise) | AI-powered interview prep platform: CV analysis, skill assessment and mock interviews. | MERN, Gemini AI, Playwright |
+</div>
 
 ---
 
-## 🛠️ Tech stack
+### 👩‍💻 About me
 
-**Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img align="right" width="300" src="https://skillicons.dev/icons?i=cs,dotnet,java,py,aws,terraform,docker,react&perline=4" alt="Core stack" />
 
-**Backend & frontend**
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+- 🎓 Final-year **BEng (Hons) Software Engineering**, Staffordshire University (APIIT Colombo), **First Class**
+- 💼 **Software Engineering Intern @ hSenid Business Solutions**, building enterprise software in C# / .NET Core
+- ☁️ Designing and building on **AWS**, with infrastructure as code in **Terraform**
+- 🔬 Final-year research: **federated fraud detection with adaptive differential privacy**
+- 🔐 Growing toward **application security** and secure software engineering
+- 🤝 Open to **Associate / Junior Software Engineer** roles
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-**Data & ML**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**Testing & quality**
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+<br clear="right" />
 
 ---
 
-## 📊 GitHub stats
+### 📌 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ [Federated Fraud Detection with Adaptive DP](https://github.com/ShariniN/federated-fraud-detection-adaptive-dp)
+Banks train a shared fraud model **without sharing data**. Uncertainty-adaptive differential privacy, uncertainty-weighted aggregation, and membership-inference attack evaluation on **590K transactions**.
+
+`Python` `PyTorch` `Opacus` `Flower`
+
+</td>
+<td width="50%" valign="top">
+
+#### ☁️ [AWS Healthcare Cloud Migration](https://github.com/ShariniN/aws-healthcare-cloud-migration)
+Multi-AZ AWS architecture and proof of concept for a **~220-VM** healthcare platform: **99.99 %** availability target, warm-standby DR, six-layer security.
+
+`AWS` `Terraform` `ECS Fargate` `Aurora` `DynamoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎲 [LUDO-T: Multiplayer Client-Server Game](https://github.com/ShariniN/ludo-multiplayer-client-server-java)
+Three-tier multiplayer game with a concurrent socket + Tomcat server and an H2 database tier. **280 passing tests**, stress-tested with **zero dropped requests**.
+
+`Java 21` `Tomcat` `H2/JDBC` `JUnit` `JMeter`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 [PrepWise](https://github.com/ShariniN/PrepWise)
+AI-powered interview prep platform: CV analysis, skill assessment and mock interviews, with Playwright end-to-end tests.
+
+`MongoDB` `Express` `React` `Node.js` `Gemini AI`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShariniN&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariniN&layout=compact&theme=radical" alt="Top Languages" height="165">
+
+**Languages & frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=cs,java,py,js,dotnet,nodejs,express,react,vue,laravel,tailwind" alt="Languages and frameworks" />
+
+**Cloud, DevOps & data**<br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,azure,git,mysql,dynamodb,mongodb" alt="Cloud, DevOps and data" />
+
+**ML & testing**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,postman" alt="ML and testing" />
+&nbsp;
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" height="28" alt="JUnit" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="28" alt="Playwright" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" height="28" alt="SonarQube" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" height="28" alt="JMeter" />
+
+</div>
+
+---
+
+### 📊 GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShariniN&show_icons=true&hide_border=true&bg_color=0D1117&title_color=66BB6A&icon_color=43A047&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariniN&layout=compact&hide_border=true&bg_color=0D1117&title_color=66BB6A&text_color=C9D1D9" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ShariniN&hide_border=true&background=0D1117&ring=43A047&fire=66BB6A&currStreakLabel=66BB6A&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,100:1B5E20&height=110&section=footer" width="100%" alt="" />
 </div>
