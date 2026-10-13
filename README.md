@@ -2,70 +2,105 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,100:66BB6A&height=190&section=header&text=Sharini%20Nirmalan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Secure%20Systems&descAlignY=58&descSize=18" width="100%" alt="Sharini Nirmalan" />
 
-<a href="https://www.linkedin.com/in/sharini-nirmalan-5081a0322/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://sharinin.com/">Portfolio</a> &nbsp;·&nbsp;
-<a href="mailto:nirmalan.sharini@gmail.com">Email</a>
+<p>
+  <a href="https://www.linkedin.com/in/sharini-nirmalan-5081a0322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sharinin.com/"><img src="https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:nirmalan.sharini@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
-<br/>
+---
 
-I'm a final-year software engineering student at Staffordshire University (APIIT Colombo) and an intern at hSenid Business Solutions, where I work on enterprise HR software in C# and .NET. Outside work I build on AWS, and my final-year research looks at how banks can detect fraud together without sharing their customers' data.
+### 👩‍💻 About me
 
-I'm looking for an associate or junior software engineer role.
+<img align="right" width="300" src="https://skillicons.dev/icons?i=cs,dotnet,java,py,aws,terraform,docker,react&perline=4" alt="Core stack" />
 
-<table>
-<tr><td><b>Now</b></td><td>Interning at hSenid &nbsp;·&nbsp; finishing my final-year project &nbsp;·&nbsp; learning application security</td></tr>
-<tr><td><b>Stack</b></td><td>C#, .NET Core, Java, Python &nbsp;·&nbsp; AWS, Terraform, Docker &nbsp;·&nbsp; MySQL, DynamoDB</td></tr>
-</table>
+- 🎓 Final-year **BEng (Hons) Software Engineering**, Staffordshire University (APIIT Colombo), **First Class**
+- 💼 **Software Engineering Intern @ hSenid Business Solutions**, building enterprise software in C# / .NET Core
+- ☁️ Designing and building on **AWS**, with infrastructure as code in **Terraform**
+- 🔬 Final-year research: **federated fraud detection with adaptive differential privacy**
+- 🔐 Growing toward **application security** and secure software engineering
+- 🤝 Open to **Associate / Junior Software Engineer** roles
 
-<br/>
+<br clear="right" />
 
-## Projects
+---
+
+### 📌 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/ShariniN/aws-healthcare-cloud-migration"><img src="https://raw.githubusercontent.com/ShariniN/aws-healthcare-cloud-migration/main/diagrams/Figure1_target_architecture.png" alt="AWS architecture" /></a>
-<br/><b><a href="https://github.com/ShariniN/aws-healthcare-cloud-migration">AWS Healthcare Cloud Migration</a></b>
-<br/>Moving a 220-VM healthcare platform to a Multi-AZ AWS design. 99.99% availability target, about $1,194 a month.
-<br/><sub>AWS · Terraform · ECS Fargate · Aurora · DynamoDB</sub>
+
+#### 🛡️ [Federated Fraud Detection with Adaptive DP](https://github.com/ShariniN/federated-fraud-detection-adaptive-dp)
+Banks train a shared fraud model **without sharing data**. Uncertainty-adaptive differential privacy, uncertainty-weighted aggregation, and membership-inference attack evaluation on **590K transactions**.
+
+`Python` `PyTorch` `Opacus` `Flower`
+
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/ShariniN/ludo-multiplayer-client-server-java"><img src="https://raw.githubusercontent.com/ShariniN/ludo-multiplayer-client-server-java/main/docs/figures/gui_live_mixed_match.png" alt="LUDO-T game" /></a>
-<br/><b><a href="https://github.com/ShariniN/ludo-multiplayer-client-server-java">LUDO-T</a></b>
-<br/>Multiplayer Ludo with a concurrent Java server and a database tier. 280 tests, 4,000+ stress requests, none dropped.
-<br/><sub>Java 21 · Tomcat · H2 · JUnit · JMeter</sub>
+
+#### ☁️ [AWS Healthcare Cloud Migration](https://github.com/ShariniN/aws-healthcare-cloud-migration)
+Multi-AZ AWS architecture and proof of concept for a **~220-VM** healthcare platform: **99.99 %** availability target, warm-standby DR, six-layer security.
+
+`AWS` `Terraform` `ECS Fargate` `Aurora` `DynamoDB`
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/ShariniN/federated-fraud-detection-adaptive-dp"><img src="https://raw.githubusercontent.com/ShariniN/federated-fraud-detection-adaptive-dp/main/results/attacks/mia_roc_loglog.png" alt="Membership inference results" /></a>
-<br/><b><a href="https://github.com/ShariniN/federated-fraud-detection-adaptive-dp">Federated Fraud Detection</a></b>
-<br/>Final-year project. Banks train one fraud model without sharing data, with differential privacy that adapts per transaction. 590K transactions.
-<br/><sub>Python · PyTorch · Opacus · Flower</sub>
+
+#### 🎲 [LUDO-T: Multiplayer Client-Server Game](https://github.com/ShariniN/ludo-multiplayer-client-server-java)
+Three-tier multiplayer game with a concurrent socket + Tomcat server and an H2 database tier. **280 passing tests**, stress-tested with **zero dropped requests**.
+
+`Java 21` `Tomcat` `H2/JDBC` `JUnit` `JMeter`
+
 </td>
 <td width="50%" valign="top">
-<b><a href="https://github.com/ShariniN/PrepWise">PrepWise</a></b>
-<br/>Interview prep platform: CV analysis, skill assessment and mock interviews.
-<br/><sub>MongoDB · Express · React · Node.js · Playwright</sub>
-<br/><br/>
-<b><a href="https://github.com/ShariniN/SSP2-Assignment">Laravel E-commerce</a></b>
-<br/>MySQL and MongoDB, JWT auth, Docker deployment.
-<br/><sub>Laravel · Livewire · Docker</sub>
-<br/><br/>
-<b><a href="https://github.com/ShariniN/youtube-transcript-summarizer">YouTube Transcript Summarizer</a></b>
-<br/>Summaries and Q&amp;A from video transcripts.
-<br/><sub>Flask · Whisper · Transformers</sub>
+
+#### 🧠 [PrepWise](https://github.com/ShariniN/PrepWise)
+AI-powered interview prep platform: CV analysis, skill assessment and mock interviews, with Playwright end-to-end tests.
+
+`MongoDB` `Express` `React` `Node.js` `Gemini AI`
+
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+### 🛠️ Tech stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,react,aws,terraform,docker,githubactions,mysql,pytorch" alt="Tech stack" />
-<br/><br/>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShariniN&show_icons=true&hide_border=true&bg_color=0D1117&title_color=66BB6A&icon_color=43A047&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariniN&layout=compact&hide_border=true&bg_color=0D1117&title_color=66BB6A&text_color=C9D1D9" alt="Top languages" />
+
+**Languages & frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=cs,java,py,js,dotnet,nodejs,express,react,vue,laravel,tailwind" alt="Languages and frameworks" />
+
+**Cloud, DevOps & data**<br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,azure,git,mysql,dynamodb,mongodb" alt="Cloud, DevOps and data" />
+
+**ML & testing**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,postman" alt="ML and testing" />
+&nbsp;
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" height="28" alt="JUnit" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="28" alt="Playwright" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" height="28" alt="SonarQube" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" height="28" alt="JMeter" />
+
+</div>
+
+---
+
+### 📊 GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShariniN&show_icons=true&hide_border=true&bg_color=0D1117&title_color=66BB6A&icon_color=43A047&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariniN&layout=compact&hide_border=true&bg_color=0D1117&title_color=66BB6A&text_color=C9D1D9" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ShariniN&hide_border=true&background=0D1117&ring=43A047&fire=66BB6A&currStreakLabel=66BB6A&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,100:1B5E20&height=110&section=footer" width="100%" alt="" />
 </div>
