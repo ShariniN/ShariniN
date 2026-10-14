@@ -17,7 +17,7 @@
 <img align="right" width="300" src="https://skillicons.dev/icons?i=cs,dotnet,java,py,aws,terraform,docker,react&perline=4" alt="Core stack" />
 
 - 🎓 Final-year **BEng (Hons) Software Engineering**, Staffordshire University (APIIT Colombo), **First Class**
-- 💼 **Software Engineering Intern @ hSenid Business Solutions**, building enterprise software in C# / .NET Core
+- 💼 **Software Engineering Intern @ hSenid Business Solutions**, building enterprise software in C# / .NET Core, with Azure DevOps and Git
 - ☁️ Designing and building on **AWS**, with infrastructure as code in **Terraform**
 - 🔬 Final-year research: **federated fraud detection with adaptive differential privacy**
 - 🔐 Growing toward **application security** and secure software engineering
